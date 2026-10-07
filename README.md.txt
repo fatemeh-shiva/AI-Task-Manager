@@ -8,3 +8,4 @@ A simple Task Manager API built with Python and Fast
 -Get a Task
 -Update Tasks
 -Delete Tasks
+-Mark tasks as completed
